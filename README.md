@@ -9,7 +9,7 @@
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="dev-giv" src="[https://discord.com/channels/645388143293628416/645388143293628421/1006019453600932041](https://media.giphy.com/media/n5Zey0rk2AduKpwpTT/giphy.gif)">
+   <img align="right" alt="dev-giv" src="https://media.giphy.com/media/n5Zey0rk2AduKpwpTT/giphy.gif">
  </div>
   
   <br>
