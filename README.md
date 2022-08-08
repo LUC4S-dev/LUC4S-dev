@@ -17,7 +17,7 @@
   
   <div>  
      <a href = "mailto:lucaslenisbenicio@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"     target="_blank"></a>
-  <a href="www.linkedin.com/in/lucas-siqueira-benicio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/lucas-siqueira-benicio" target="_blank"><img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://discord.com/channels/645388143293628416/645388143293628421/1006019453600932041)" target="_blank"></a> 
  
 </div>
 
